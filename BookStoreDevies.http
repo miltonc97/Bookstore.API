@@ -1,0 +1,6 @@
+@BookStoreDevies_HostAddress = http://localhost:5115
+
+GET {{BookStoreDevies_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
